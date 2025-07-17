@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/niledatabase-nile-mcp-server)
+
 <p align="center">
  <a href="https://thenile.dev" target="_blank"><img width="96px" src="https://www.thenile.dev/about-logo.png" /></a>
  <h2 align="center">Nile MCP Server
